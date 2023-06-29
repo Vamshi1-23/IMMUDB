@@ -1,0 +1,23 @@
+{
+  "name": "immudb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "customer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vamshi1-23/IMMUDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vamshi1-23/IMMUDB/issues"
+  },
+  "homepage": "https://github.com/Vamshi1-23/IMMUDB#readme",
+  "keywords": [],
+  "dependencies": {
+    "immudb-node": "^1.1.1"
+  }
+}
